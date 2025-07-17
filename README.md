@@ -1,5 +1,3 @@
-# Iris-Dataset-EDA-Exploratory-Data-Analysis-
-
 # Iris Dataset EDA (Exploratory Data Analysis)
 
 This repository contains exploratory data analysis (EDA) on the classic **Iris dataset** using Python libraries such as `pandas`, `seaborn`, and `matplotlib`. The goal is to visualize and summarize patterns across different Iris flower species using features like petal length, sepal length, and sepal width.
